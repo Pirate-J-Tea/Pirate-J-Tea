@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .leave a messge.
 - 😄 Pronouns: .he - him.
-- ⚡ Fun fact: .Started programming in Basicon a Wang 2000 computer in 1973!
+- ⚡ Fun fact: .Started programming in Basic on a Wang 2000 computer in 1973!
 
 <!---
 Pirate-J-Tea/Pirate-J-Tea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
